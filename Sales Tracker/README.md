@@ -11,10 +11,7 @@ This project is part of the Data Science Mastermind program. It demonstrates how
 2. Calculations: Used formulas to calculate Total Sales, Total Amount, and Average Sales.  
 3. Formatting: Applied date and currency formats, and styled the table.  
 4. Summary: Created total and average sales summaries.  
-
-## Screenshots  
-![Sales Tracker Table](<URL to the screenshot>)  
-![Summary Section](<URL to the screenshot>)  
+ 
 
 ## Tools Used  
 - Microsoft Excel  
